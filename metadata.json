@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Voice",
+  "description": "Real-time AI Voice & Audio Chatbot powered by Gemini Multimodal Live API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
